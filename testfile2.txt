@@ -1,4 +1,4 @@
 test text
 one 
 two
-three
+deleted three
